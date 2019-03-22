@@ -6,4 +6,4 @@
 
 Ссылка на эмбеддинги: https://fasttext.cc/docs/en/crawl-vectors.html
 
-Ссылка на веса модели: https://drive.google.com/open?id=1jK40LGXOiPZozMiKbkdG6Ry-tsAotEwb
+Ссылка на веса модели: https://drive.google.com/open?id=1a5AJWydfBmBYwC2j1KfRG0INtDdV4mIG
